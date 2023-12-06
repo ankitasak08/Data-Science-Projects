@@ -32,9 +32,7 @@ sales-analysis-project/
 ├── notebooks/
 │   ├── SalesAnalysis.ipynb
 │
-├── README.md
-│
-└── conclusion.txt
+└── README.md
 ```
 
 - **data**: The sample sales dataset we are using in this project (`sales_data.csv`).
